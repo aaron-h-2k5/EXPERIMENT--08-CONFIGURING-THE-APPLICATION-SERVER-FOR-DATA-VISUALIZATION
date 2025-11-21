@@ -1,4 +1,10 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION
+###  DATE: 
+
+###  NAME: AARON H 
+###  ROLL NO : 212223040001
+###  DEPARTMENT: CSE
+
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
@@ -34,7 +40,9 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
-
+![Out1](https://github.com/user-attachments/assets/285e2c96-0e9c-4d80-a44f-e6b600db8c3b)
+![Out2](https://github.com/user-attachments/assets/305054e8-76cb-4ba8-8e7a-6145440836bd)
+![Out3](https://github.com/user-attachments/assets/38775a11-6af4-4ced-b3c0-44f865b4be58)
 
 
 ## Result: 
